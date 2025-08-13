@@ -1,0 +1,13 @@
+## Differential Privacy
+
+This directory contains a collection of libraries related to *differential privacy*,  
+along with evaluations of various packages to assess how they respond to differential privacy configurations.
+
+It also includes practical use cases and scenarios demonstrating the application of differential privacy,  
+as well as measurements, test results, and analysis.
+
+## Contents (to be expanded)
+- Core libraries for differential privacy
+- Evaluations of packages
+- Real-world use cases and examples
+- Test data, metrics, and reports
