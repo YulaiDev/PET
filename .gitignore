@@ -29,3 +29,27 @@ env/
 
 
 
+# Python / env
+env/
+venv/
+*.venv/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtualenvs in submappen
+**/tf-dp-env/
+**/.env/
+**/.venv/
+
+# Binaries / grote artefacten
+*.dylib
+*.so
+*.whl
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# macOS
+.DS_Store
